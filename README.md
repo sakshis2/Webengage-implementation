@@ -25,3 +25,10 @@ Then we seprate the each element of array on the basis of delimiter ',' and stor
 Then for each element in the finalArray we applied the transformation as instructed in above image, and then again convert this finalArray into string with seprated by ','.
 
 And after that we used encodeURL to convert it into CSV file.
+
+
+
+
+Output
+
+![image](https://user-images.githubusercontent.com/65385026/191976646-db2e30ca-2442-4688-b81b-336567dd614d.png)
