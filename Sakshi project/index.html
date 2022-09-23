@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Transform CSV File</title>
+<link rel="stylesheet" href="index.css">
+<script src="index.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2 id="header">Transform CSV File</h2>
+        <div class="row action-container">
+            <div class="col" id="import">
+                Choose a CSV file: <input type="file" id="fileInput"/>
+                <button type="button" id="buttonImport" onClick="importFile()">Import</button>
+            </div>
+            <div class="col" id="DownloadNow">
+                <p id="downloadLabel">Download your transformed CSV files</p>
+                <button type="button" id="buttonDownload" onClick="downloadFile()">Download</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

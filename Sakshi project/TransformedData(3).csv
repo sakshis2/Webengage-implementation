@@ -1,0 +1,34 @@
+user_id,first_name,last_name,phone,email,gender,age_category,birthdate,country,reg_date
+cust_1,danaí,al_hussain,123456789,abc@emil.com,mrs,18_25,`2021-09-06`,saudi arabia,`2021-09-06`
+cust_2,nika,n,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,azerbaijan,`2021-09-06`
+cust_3,tahereh,mollari,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,iran,`2021-09-06`
+cust_4,abdullah,abdullah,123456789,abc@emil.com,mr,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_5,sharon,sh,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,kenya,`2021-09-06`
+cust_6,alya,hamad,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_7,souad,julie,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,morocco,`2021-09-06`
+cust_8,miu,miu,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,vietnam,`2021-09-06`
+cust_9,janet,abadi,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,ethiopia,`2021-09-06`
+cust_10,moza,saeed,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_11,jowhara,alghamdi,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,saudi arabia,`2021-09-06`
+cust_12,seham,alameddine,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,united states of america,`2021-09-06`
+cust_13,baldes,b,123456789,abc@emil.com,mr,26_35,`2021-09-06`,latvia,`2021-09-06`
+cust_14,jawaher,ali,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_15,siba,halawa,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,jordan,`2021-09-06`
+cust_16,natacha,y,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,russia,`2021-09-06`
+cust_17,noura,battayor,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,saudi arabia,`2021-09-06`
+cust_18,amina,a,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_19,ace,foster,123456789,abc@emil.com,mr,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_20,lamia,shadier,123456789,abc@emil.com,mrs,46_60,`2021-09-06`,saudi arabia,`2021-09-06`
+cust_21,hind,alhammadi,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_22,ahmed,alshamsi,123456789,abc@emil.com,mr,36_45,Wrong date Input,united arab emirates,Wrong date Input
+cust_23,kholood,alshamsi,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_24,hanna,haddad,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,,`2021-09-06`
+cust_25,amal,a,123456789,abc@emil.com,mrs,36_45,Wrong date Input,morocco,Wrong date Input
+cust_26,zari,zari,123456789,abc@emil.com,mr,26_35,`2021-09-06`,,`2021-09-06`
+cust_27,khalifa,alfalasi,123456789,abc@emil.com,mr,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_28,adita,komba,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,india,`2021-09-06`
+cust_29,moza,khatan,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,united arab emirates,`2021-09-06`
+cust_30,ameena,alaoui,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,morocco,`2021-09-06`
+cust_31,juliet,kebenei,123456789,abc@emil.com,mrs,26_35,`2021-09-06`,kenya,`2021-09-06`
+cust_32,ashley,silva,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,united states of america,`2021-09-06`
+cust_33,rasha,srour,123456789,abc@emil.com,mrs,36_45,`2021-09-06`,lebanon,`2021-09-06`
